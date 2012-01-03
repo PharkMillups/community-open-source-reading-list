@@ -1,6 +1,6 @@
 # Community and Open Source Reading List
 
-This is a living list of reading, listening, and watching that might be valuable for anyone who is working in, around, or with _community_, _community building_, _open source_, or _developers_. I've found these useful and/or inspiring over the course of my tenure as Community Manager at [Basho](http://basho.com). Perhaps you will, too. 
+A living list of materials that might be valuable for anyone who is working in, around, or with _community_, _community building_, _open source_, or _developers_. I've found these useful and/or inspiring over the course of my tenure as Community Manager at [Basho](http://basho.com). Perhaps you will, too. 
 
 This is not exhaustive and I plan to add to it as I come across new pieces or remember past ones of significance. **Pull requests are encouraged.**
 
