@@ -23,7 +23,7 @@ Enjoy.
 * [Open Source (Almost) Everything](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) (Tom Preston) 
 * [The Clojure Community and Me](http://blog.raynes.me/blog/2011/11/27/the-clojure-community-and-me/) (Anthony Grimes)
 * [What Business Can Learn From Open Source](http://www.paulgraham.com/opensource.html) (Paul Graham)
-* [2011: My Year of Open Source](http://whilefalse.blogspot.com/2011/12/2011-my-year-of-open-source.html)(Camille Fournier)
+* [2011: My Year of Open Source](http://whilefalse.blogspot.com/2011/12/2011-my-year-of-open-source.html) (Camille Fournier)
 
 ## Talks, Podcasts, and Slide Decks 
 * [An End to Negativity](http://jsconf.eu/2011/an_end_to_negativity.html) - Chris Williams on changing yourself (and your community) for the better.
