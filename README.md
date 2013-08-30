@@ -27,4 +27,4 @@ Enjoy.
 * [Overpriced Developer Conferences](http://www.amberweinberg.com/overpriced-developer-conferences) (Amber Weinberg)
 
 ## Talks, Podcasts, and Slide Decks 
-* [An End to Negativity](http://jsconf.eu/2011/an_end_to_negativity.html) - Chris Williams on changing yourself (and your community) for the better.
+* [An End to Negativity](http://youtu.be/17rkSdkc5TI) - Chris Williams on changing yourself (and your community) for the better.
